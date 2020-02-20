@@ -55,6 +55,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Click.cs" />
      <Compile Include="Assets\Scripts\UI.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/luukv/Documents/_Git/semestertwee/FrontEnd/FrontEnd/Demo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
