@@ -55,15 +55,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
-     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
-     <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
-     <Compile Include="Assets\SampleScenes\Scripts\CameraSwitch.cs" />
-     <Compile Include="Assets\SampleScenes\Scripts\LevelReset.cs" />
-     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
-     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
-     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
-     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
+     <Compile Include="Assets\Scripts\UI.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/luukv/Documents/_Git/semestertwee/FrontEnd/FrontEnd/Demo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
