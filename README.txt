@@ -1,4 +1,4 @@
-
+.
 Frontend voor het zeeslag spel
 
 Required:
